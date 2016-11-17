@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To do list</string>
+    <string name="action_settings">Settings</string>
+    <string name="tambah">Tambah</string>
+</resources>
